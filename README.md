@@ -1,5 +1,5 @@
 # Django tutorial
-Aplicação básica de enquetes.<br>
-Ela irá consistir de duas partes:  
-<li>Uma página pública que permitirá que pessoas vejam as enquetes e votem nelas.</li>
-<li>Um site de administração que permite adicionar, alterar e deletar enquetes.</li>
+A basic poll application<br>
+It’ll consist of two parts:
+<li>A public site that lets people view polls and vote in them.</li>
+<li>An admin site that lets you add, change, and delete polls.</li>
